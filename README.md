@@ -12,5 +12,5 @@ This repository contains my solutions for **TypeHero** challenges from [TypeHero
 
 ## 🚀 Main Topics
 
-- **TypeScript Types**
+- **Generics**
 - **Utility Types**
