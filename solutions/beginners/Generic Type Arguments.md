@@ -1,6 +1,6 @@
 # 📝 Generic Type Arguments
 
-## 🔗 [Task description on CodeWars](https://typehero.dev/challenge/generic-type-arguments)
+## 🔗 [Task description on TypeHero](https://typehero.dev/challenge/generic-type-arguments)
 
 ### 💡 Solution
 
