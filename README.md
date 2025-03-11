@@ -12,5 +12,8 @@ This repository contains my solutions for **TypeHero** challenges from [TypeHero
 
 ## 🚀 Main Topics
 
+- **Primitive Types**
 - **Generics**
+- **Interfaces & Types**
 - **Utility Types**
+- **TypeScript operators** (_satisfies, typeof, extends, keyof_)
